@@ -1,1 +1,1 @@
-# Hack
+Hack day october.
